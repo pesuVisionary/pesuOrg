@@ -1,0 +1,55 @@
+/*-------------------Body---------------------*/
+body{
+    background-image: url(bgImage.jpg);
+
+}
+
+/*-----welcoming Space----*/
+#welcomeDiv{
+    background-color: skyblue;
+    color: white;
+    
+}
+
+/*--------Logo and Search bar division-----*/
+/*#logoDiv{
+    background-color:rgb(24, 23, 23);
+    max-height: auto;
+}*/
+/*---------------searchBar------------*/
+.searchBar{
+   width: 100%;
+   background: whitesmoke;
+   border-radius: 10px;
+   padding: 10px 20px;
+   height: fit-content;
+ 
+}
+
+.searchBar input{
+    background: transparent;
+    flex: 1;
+    border: 0;
+    outline: none;
+    color: gray;
+    width: 90%;
+    
+}
+
+.searchBar button{
+    border: 0;
+    color: orangered;
+ 
+    
+}
+/*-----------------(a) Element------------------*/
+.navbar a {
+color: aliceblue;
+}
+
+   /*-------------------link hovering----------------*/
+  .navbar a:hover{
+
+    color:rgb(202, 8, 192);
+
+   }

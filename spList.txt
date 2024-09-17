@@ -1,0 +1,5 @@
+1.Headlamp
+2.Taillamp
+3.Handguard
+4.TailMadguard
+6.small horn
